@@ -1,0 +1,28 @@
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\COPBenchmark.dll
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\TeeChart.dll
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.Mainform.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.CopyComplete
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.exe.config
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\R08546002YCLiuAss11PSO.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\COPBenchmark.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\TeeChart.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.Mainform.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.Properties.Resources.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.csproj.CopyComplete
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\obj\Debug\R08546002YCLiuAss11PSO.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass11\R08546002YCLiuAss11PSOSsolution\R08546002YCLiuAss11PSO\bin\Debug\GeneticAlgorithmLibrary.pdb

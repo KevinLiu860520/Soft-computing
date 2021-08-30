@@ -1,0 +1,64 @@
+Model:Sugeno
+NumberOfInputUniverse:2
+:Title: X
+:Minimum: -5
+:Maximum: 5
+:Resolution: 100
+NumberOfFSs:2
+FuzzySetType:Z_ShapedFuzzySet
+OriginHashCode:6122357
+:Title: xSmall
+:NumberOfParameters: 2
+Par0:-2
+Par1:2
+FuzzySetType:S_ShapedFuzzySet
+OriginHashCode:21800467
+:Title: xLarge
+:NumberOfParameters: 2
+Par0:-2
+Par1:2
+:Title: Y
+:Minimum: -5
+:Maximum: 5
+:Resolution: 100
+NumberOfFSs:2
+FuzzySetType:SigmoidalFuzzySet
+OriginHashCode:58529038
+:Title: ySmall
+:NumberOfParameters: 2
+Par0:0
+Par1:-1
+FuzzySetType:SigmoidalFuzzySet
+OriginHashCode:56999299
+:Title: yLarge
+:NumberOfParameters: 2
+Par0:0
+Par1:1
+NumberOfInputUniverse:1 
+:Title: Z
+:Minimum: 0
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:4
+OriginHashCode:43231651
+Title:3 : Z = - X + Y + 1
+OriginHashCode:53540541
+Title:4 : Z = - Y + 3
+OriginHashCode:12102828
+Title:5 : Z = - X + 3
+OriginHashCode:41816592
+Title:6 : Z = X + Y + 2
+NumberOfRows:4
+NumberOfCols:3
+FuzzySetHash:6122357
+FuzzySetHash:58529038
+EquationID:3
+FuzzySetHash:6122357
+FuzzySetHash:56999299
+EquationID:4
+FuzzySetHash:21800467
+FuzzySetHash:58529038
+EquationID:5
+FuzzySetHash:21800467
+FuzzySetHash:56999299
+EquationID:6

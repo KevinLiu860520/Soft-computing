@@ -1,0 +1,28 @@
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\TSPBenchmark.dll
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\TSPBenchmark.xml
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.MainForm.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.CopyComplete
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\saes0\Desktop\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.MainForm.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.Properties.Resources.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.exe.config
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\R08546002YCLiuAss10TSP.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\TSPBenchmark.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\bin\Debug\TSPBenchmark.xml
+C:\Users\saes0\Desktop\soft computing\assignment\Ass10\R08546002YCLiuAss10TSPsolution\R08546002YCLiuAss10TSP\obj\Debug\R08546002YCLiuAss10TSP.csproj.CopyComplete

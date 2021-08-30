@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1717: 對相同變數進行的指派
+dotnet_diagnostic.CS1717.severity = none

@@ -1,0 +1,88 @@
+Model:Mamdani
+NumberOfInputUniverse:2
+:Title: X
+:Minimum: -5
+:Maximum: 5
+:Resolution: 100
+NumberOfFSs:2
+FuzzySetType:Z_ShapedFuzzySet
+OriginHashCode:51442863
+:Title: xSamll
+:NumberOfParameters: 2
+Par0:-2
+Par1:2
+FuzzySetType:S_ShapedFuzzySet
+OriginHashCode:14353717
+:Title: xLarge
+:NumberOfParameters: 2
+Par0:-2
+Par1:2
+:Title: Y
+:Minimum: -5
+:Maximum: 5
+:Resolution: 100
+NumberOfFSs:2
+FuzzySetType:SigmoidalFuzzySet
+OriginHashCode:43231651
+:Title: ySmall
+:NumberOfParameters: 2
+Par0:0
+Par1:1
+FuzzySetType:SigmoidalFuzzySet
+OriginHashCode:13189358
+:Title: yLarge
+:NumberOfParameters: 2
+Par0:0
+Par1:-1
+NumberOfInputUniverse:1 
+:Title: Z
+:Minimum: -5
+:Maximum: 5
+:Resolution: 100
+NumberOfFSs:4
+FuzzySetType:TwoSideGaussianFussySet
+OriginHashCode:14000148
+:Title: Negative Large
+:NumberOfParameters: 4
+Par0:-5.5
+Par1:-3.5
+Par2:0.3
+Par3:0.3
+FuzzySetType:TwoSideGaussianFussySet
+OriginHashCode:58892473
+:Title: Negative Small
+:NumberOfParameters: 4
+Par0:-2.5
+Par1:-0.5
+Par2:0.3
+Par3:0.3
+FuzzySetType:TwoSideGaussianFussySet
+OriginHashCode:60270212
+:Title: Positive Small
+:NumberOfParameters: 4
+Par0:0.5
+Par1:2.5
+Par2:0.3
+Par3:0.3
+FuzzySetType:TwoSideGaussianFussySet
+OriginHashCode:5560998
+:Title: Positive Large
+:NumberOfParameters: 4
+Par0:3.5
+Par1:5.5
+Par2:0.3
+Par3:0.3
+NumberOfRows:4
+NumberOfCols:3
+FuzzySetHash:51442863
+FuzzySetHash:43231651
+FuzzySetHash:14000148
+FuzzySetHash:51442863
+FuzzySetHash:13189358
+FuzzySetHash:58892473
+FuzzySetHash:14353717
+FuzzySetHash:43231651
+FuzzySetHash:60270212
+FuzzySetHash:14353717
+FuzzySetHash:13189358
+FuzzySetHash:5560998

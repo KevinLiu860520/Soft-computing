@@ -1,0 +1,10 @@
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\bin\Debug\R08546002YCLiuAss00.exe.config
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\bin\Debug\R08546002YCLiuAss00.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\bin\Debug\R08546002YCLiuAss00.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss04.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss00.MainForm.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss00.Properties.Resources.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss04.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss04.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss00.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass4\R08546002YCLiuAss04\R08546002YCLiuAss04\R08546002YCLiuAss04\obj\Debug\R08546002YCLiuAss00.pdb

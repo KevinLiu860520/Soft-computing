@@ -1,0 +1,25 @@
+Title: Function9(3)
+Type: Minimization
+Dimension: 3
+LowerBoundsUpperBounds: Enumerate
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+NumberOfOptimalSolution: 1
+0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+double twoPi = 2*Math.PI;
+foreach(double xi in x)
+{
+    objective += xi*xi - 10 * Math.Cos(twoPi*xi)+10;
+}
+
+GradientFunction: 
+

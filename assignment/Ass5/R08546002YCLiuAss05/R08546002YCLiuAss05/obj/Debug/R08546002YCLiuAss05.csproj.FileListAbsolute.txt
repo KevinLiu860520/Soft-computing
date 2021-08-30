@@ -1,0 +1,20 @@
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.MainForm.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.exe.config
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\bin\Debug\R08546002YCLiuAss05.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.MainForm.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.Properties.Resources.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass5\R08546002YCLiuAss05\R08546002YCLiuAss05\obj\Debug\R08546002YCLiuAss05.pdb

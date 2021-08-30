@@ -1,0 +1,20 @@
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.MainForm.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.exe.config
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\bin\Debug\R08546002YCLiuAss12NN.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.MainForm.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.Properties.Resources.resources
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.exe
+C:\Users\saes0\Desktop\soft computing\assignment\Ass12\R08546002YCLiuAss12NNSolver\R08546002YCLiuAss12NN\obj\Debug\R08546002YCLiuAss12NN.pdb

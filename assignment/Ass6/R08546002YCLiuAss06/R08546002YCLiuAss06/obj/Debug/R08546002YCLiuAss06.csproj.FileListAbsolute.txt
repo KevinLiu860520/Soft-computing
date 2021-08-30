@@ -1,0 +1,13 @@
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\bin\Debug\R08546002YCLiuAss06.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\bin\Debug\R08546002YCLiuAss06.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\bin\Debug\R08546002YCLiuAss06.pdb
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\bin\Debug\TeeChart.dll
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\bin\Debug\TeeChart.xml
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.MainForm.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.csproj.CopyComplete
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.exe
+C:\Users\saes0\Desktop\R08546002YCLiuAss06\R08546002YCLiuAss06\obj\Debug\R08546002YCLiuAss06.pdb

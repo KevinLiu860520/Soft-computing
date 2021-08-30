@@ -1,0 +1,15 @@
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\R08546002YCLiu_FinalProject.exe.config
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\R08546002YCLiu_FinalProject.exe
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\R08546002YCLiu_FinalProject.pdb
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\COPBenchmark.dll
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\TeeChart.dll
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\bin\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.Mainform.resources
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.Properties.Resources.resources
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.csproj.CopyComplete
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.exe
+C:\Users\saes0\Desktop\R08546002YCLiu_FinalProject\R08546002YCLiu_FinalProject\obj\Debug\R08546002YCLiu_FinalProject.pdb

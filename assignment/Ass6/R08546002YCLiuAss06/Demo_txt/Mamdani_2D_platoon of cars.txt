@@ -1,0 +1,322 @@
+Model:Mamdani
+NumberOfInputUniverse:2
+:Title: Velocity Difference
+:Minimum: -10
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:7
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:6122357
+:Title: vLN
+:NumberOfParameters: 2
+Par0:-2.5
+Par1:-7.5
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:21800467
+:Title: vMN
+:NumberOfParameters: 3
+Par0:-7
+Par1:-2.5
+Par2:-1
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:33726620
+:Title: vSN
+:NumberOfParameters: 3
+Par0:-3
+Par1:-0.75
+Par2:0
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:35104124
+:Title: vZE
+:NumberOfParameters: 3
+Par0:-0.75
+Par1:0
+Par2:0.75
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:47501665
+:Title: vSP
+:NumberOfParameters: 3
+Par0:0
+Par1:0.75
+Par2:3
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:24861802
+:Title: vMP
+:NumberOfParameters: 3
+Par0:1
+Par1:2.5
+Par2:7
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:540121
+:Title: vLP
+:NumberOfParameters: 2
+Par0:2.5
+Par1:7.5
+:Title: Acceleration
+:Minimum: -1.5
+:Maximum: 1.5
+:Resolution: 100
+NumberOfFSs:7
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:51595365
+:Title: aLN
+:NumberOfParameters: 2
+Par0:-0.4
+Par1:-1
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:20084682
+:Title: aMN
+:NumberOfParameters: 3
+Par0:-1
+Par1:-0.575
+Par2:-0.2
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:46544415
+:Title: aSN
+:NumberOfParameters: 3
+Par0:-0.6
+Par1:-0.15
+Par2:0
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:16246551
+:Title: aZE
+:NumberOfParameters: 3
+Par0:-0.075
+Par1:0
+Par2:0.075
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:12001237
+:Title: aSP
+:NumberOfParameters: 3
+Par0:0
+Par1:0.125
+Par2:0.6
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:40902273
+:Title: aMP
+:NumberOfParameters: 3
+Par0:0.2
+Par1:0.525
+Par2:1
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:32576140
+:Title: aLP
+:NumberOfParameters: 2
+Par0:0.4
+Par1:1
+NumberOfInputUniverse:1 
+:Title: Throttle Opening
+:Minimum: -15
+:Maximum: 15
+:Resolution: 100
+NumberOfFSs:9
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:24749807
+:Title: tEN
+:NumberOfParameters: 2
+Par0:-3
+Par1:-8
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:21421675
+:Title: tLN
+:NumberOfParameters: 3
+Par0:-5.25
+Par1:-3
+Par2:-1
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:58577354
+:Title: tMN
+:NumberOfParameters: 3
+Par0:-3
+Par1:-1.5
+Par2:-0.25
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:57434139
+:Title: tSN
+:NumberOfParameters: 3
+Par0:-1.75
+Par1:-0.25
+Par2:0
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:47145209
+:Title: tZE
+:NumberOfParameters: 3
+Par0:-0.75
+Par1:0
+Par2:0.75
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:21653700
+:Title: tSP
+:NumberOfParameters: 3
+Par0:0
+Par1:0.25
+Par2:1.75
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:60665573
+:Title: tMP
+:NumberOfParameters: 3
+Par0:0.25
+Par1:1.5
+Par2:3
+FuzzySetType:TriangularFuzzySet
+OriginHashCode:9119245
+:Title: tLP
+:NumberOfParameters: 3
+Par0:1
+Par1:3
+Par2:5.25
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:461342
+:Title: tEP
+:NumberOfParameters: 2
+Par0:3
+Par1:8
+NumberOfRows:49
+NumberOfCols:3
+FuzzySetHash:6122357
+FuzzySetHash:51595365
+FuzzySetHash:47145209
+FuzzySetHash:6122357
+FuzzySetHash:20084682
+FuzzySetHash:58577354
+FuzzySetHash:6122357
+FuzzySetHash:46544415
+FuzzySetHash:58577354
+FuzzySetHash:6122357
+FuzzySetHash:16246551
+FuzzySetHash:21421675
+FuzzySetHash:6122357
+FuzzySetHash:12001237
+FuzzySetHash:21421675
+FuzzySetHash:6122357
+FuzzySetHash:40902273
+FuzzySetHash:24749807
+FuzzySetHash:6122357
+FuzzySetHash:32576140
+FuzzySetHash:24749807
+FuzzySetHash:21800467
+FuzzySetHash:51595365
+FuzzySetHash:60665573
+FuzzySetHash:21800467
+FuzzySetHash:20084682
+FuzzySetHash:47145209
+FuzzySetHash:21800467
+FuzzySetHash:46544415
+FuzzySetHash:57434139
+FuzzySetHash:21800467
+FuzzySetHash:16246551
+FuzzySetHash:58577354
+FuzzySetHash:21800467
+FuzzySetHash:12001237
+FuzzySetHash:58577354
+FuzzySetHash:21800467
+FuzzySetHash:40902273
+FuzzySetHash:21421675
+FuzzySetHash:21800467
+FuzzySetHash:32576140
+FuzzySetHash:21421675
+FuzzySetHash:33726620
+FuzzySetHash:51595365
+FuzzySetHash:60665573
+FuzzySetHash:33726620
+FuzzySetHash:20084682
+FuzzySetHash:47145209
+FuzzySetHash:33726620
+FuzzySetHash:46544415
+FuzzySetHash:57434139
+FuzzySetHash:33726620
+FuzzySetHash:16246551
+FuzzySetHash:57434139
+FuzzySetHash:33726620
+FuzzySetHash:12001237
+FuzzySetHash:57434139
+FuzzySetHash:33726620
+FuzzySetHash:40902273
+FuzzySetHash:58577354
+FuzzySetHash:33726620
+FuzzySetHash:32576140
+FuzzySetHash:21421675
+FuzzySetHash:35104124
+FuzzySetHash:51595365
+FuzzySetHash:60665573
+FuzzySetHash:35104124
+FuzzySetHash:20084682
+FuzzySetHash:60665573
+FuzzySetHash:35104124
+FuzzySetHash:46544415
+FuzzySetHash:21653700
+FuzzySetHash:35104124
+FuzzySetHash:16246551
+FuzzySetHash:47145209
+FuzzySetHash:35104124
+FuzzySetHash:12001237
+FuzzySetHash:57434139
+FuzzySetHash:35104124
+FuzzySetHash:40902273
+FuzzySetHash:58577354
+FuzzySetHash:35104124
+FuzzySetHash:32576140
+FuzzySetHash:58577354
+FuzzySetHash:47501665
+FuzzySetHash:51595365
+FuzzySetHash:9119245
+FuzzySetHash:47501665
+FuzzySetHash:20084682
+FuzzySetHash:60665573
+FuzzySetHash:47501665
+FuzzySetHash:46544415
+FuzzySetHash:21653700
+FuzzySetHash:47501665
+FuzzySetHash:16246551
+FuzzySetHash:21653700
+FuzzySetHash:47501665
+FuzzySetHash:12001237
+FuzzySetHash:21653700
+FuzzySetHash:47501665
+FuzzySetHash:40902273
+FuzzySetHash:57434139
+FuzzySetHash:47501665
+FuzzySetHash:32576140
+FuzzySetHash:58577354
+FuzzySetHash:24861802
+FuzzySetHash:51595365
+FuzzySetHash:9119245
+FuzzySetHash:24861802
+FuzzySetHash:20084682
+FuzzySetHash:60665573
+FuzzySetHash:24861802
+FuzzySetHash:46544415
+FuzzySetHash:60665573
+FuzzySetHash:24861802
+FuzzySetHash:16246551
+FuzzySetHash:60665573
+FuzzySetHash:24861802
+FuzzySetHash:12001237
+FuzzySetHash:21653700
+FuzzySetHash:24861802
+FuzzySetHash:40902273
+FuzzySetHash:21653700
+FuzzySetHash:24861802
+FuzzySetHash:32576140
+FuzzySetHash:57434139
+FuzzySetHash:540121
+FuzzySetHash:51595365
+FuzzySetHash:461342
+FuzzySetHash:540121
+FuzzySetHash:20084682
+FuzzySetHash:9119245
+FuzzySetHash:540121
+FuzzySetHash:46544415
+FuzzySetHash:9119245
+FuzzySetHash:540121
+FuzzySetHash:16246551
+FuzzySetHash:9119245
+FuzzySetHash:540121
+FuzzySetHash:12001237
+FuzzySetHash:60665573
+FuzzySetHash:540121
+FuzzySetHash:40902273
+FuzzySetHash:60665573
+FuzzySetHash:540121
+FuzzySetHash:32576140
+FuzzySetHash:47145209

@@ -1,0 +1,61 @@
+Model:Mamdani
+NumberOfInputUniverse:1
+:Title: X
+:Minimum: -10
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:3
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:60332585
+:Title: xSmall
+:NumberOfParameters: 2
+Par0:-2.5
+Par1:-6.25
+FuzzySetType:TrapezoidalFuzzySet
+OriginHashCode:62074597
+:Title: xMedium
+:NumberOfParameters: 4
+Par0:-6.25
+Par1:-2.5
+Par2:2.5
+Par3:6.25
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:11203942
+:Title: xLarge
+:NumberOfParameters: 2
+Par0:2.5
+Par1:6.25
+NumberOfInputUniverse:1 
+:Title: Y
+:Minimum: 0
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:3
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:54078809
+:Title: ySmall
+:NumberOfParameters: 2
+Par0:2.5
+Par1:1.5
+FuzzySetType:TrapezoidalFuzzySet
+OriginHashCode:16947234
+:Title: yMedium
+:NumberOfParameters: 4
+Par0:1.5
+Par1:2.5
+Par2:5
+Par3:7
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:30548742
+:Title: yLarge
+:NumberOfParameters: 2
+Par0:5
+Par1:7
+NumberOfRows:3
+NumberOfCols:2
+FuzzySetHash:60332585
+FuzzySetHash:54078809
+FuzzySetHash:62074597
+FuzzySetHash:16947234
+FuzzySetHash:11203942
+FuzzySetHash:30548742

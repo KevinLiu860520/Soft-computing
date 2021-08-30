@@ -1,0 +1,10 @@
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\bin\Debug\DataBasePractice.exe.config
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\bin\Debug\DataBasePractice.exe
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\bin\Debug\DataBasePractice.pdb
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.Form1.resources
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.Properties.Resources.resources
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.csproj.GenerateResource.cache
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.exe
+C:\Users\saes0\Desktop\DataBasePractice\DataBasePractice\obj\Debug\DataBasePractice.pdb

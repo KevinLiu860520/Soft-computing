@@ -1,0 +1,47 @@
+Model:Sugeno
+NumberOfInputUniverse:1
+:Title: X
+:Minimum: -10
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:3
+FuzzySetType:StepDownFuzzySet
+OriginHashCode:61986480
+:Title: xSmall
+:NumberOfParameters: 2
+Par0:-4
+Par1:-4.5
+FuzzySetType:TrapezoidalFuzzySet
+OriginHashCode:11203942
+:Title: xMedium
+:NumberOfParameters: 4
+Par0:-4.5
+Par1:-4
+Par2:4
+Par3:4.5
+FuzzySetType:StepUpFuzzySet
+OriginHashCode:18307385
+:Title: xLarge
+:NumberOfParameters: 2
+Par0:4
+Par1:4.5
+NumberOfInputUniverse:1 
+:Title: Y
+:Minimum: 0
+:Maximum: 10
+:Resolution: 100
+NumberOfFSs:3
+OriginHashCode:18389930
+Title:0 : Y = 0.1 X + 6.4
+OriginHashCode:31291646
+Title:1 : Y = - 0.5 X + 4
+OriginHashCode:13189358
+Title:2 : Y = X - 2
+NumberOfRows:3
+NumberOfCols:2
+FuzzySetHash:61986480
+EquationID:0
+FuzzySetHash:11203942
+EquationID:1
+FuzzySetHash:18307385
+EquationID:2

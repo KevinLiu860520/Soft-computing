@@ -1,0 +1,6 @@
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csprojAssemblyReference.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\saes0\Desktop\soft computing\assignment\Ass8\R08546002YCLiuAss08GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.pdb
